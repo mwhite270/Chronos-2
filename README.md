@@ -3,6 +3,8 @@
 ## Project Overview
 This notebook demonstrates how to forecast Ethereum (ETH) prices using Amazon Science's Chronos-2 model. It utilizes historical price data from CoinGecko, preprocesses the data, trains the Chronos-2 model, and evaluates its forecasting performance.
 
+![Forecast chart](https://github.com/user-attachments/assets/17350c92-715e-4446-9c7c-269a87bd7687)
+
 ## Key Features
 *   **Data Acquisition**: Loads historical Ethereum price data.
 *   **Data Preprocessing**: Cleans and prepares the time series data for Chronos-2, including handling missing values and setting a datetime index.
